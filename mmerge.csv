@@ -1,0 +1,470 @@
+month,year,product,countn,in_circ,f_or_nf,f_reason,f_subsystem
+apr,2019,ArcherMET,15,25,f,Erroneously high sensitivity ,Software
+apr,2019,ArcherMET,15,25,f,No Result Determined,Assay
+apr,2019,ArcherMET,15,25,f,Reduced Sensitivity,Assay
+apr,2019,ArcherMET,15,25,f,Sequencer Misloaded,Assay
+apr,2019,ArcherMET,15,25,n,Broken pellet,Software
+apr,2019,ArcherMET,15,25,n,Cracked tube,Software
+apr,2019,Stratafide,15,25,f,Software freezes when trying to create report,Software
+apr,2020,MRD,45,46,f,Permission error in cloud based storage.,Assay
+apr,2020,MRD,45,46,n,Erroneously high sensitivity ,Assay
+apr,2020,MRD,45,46,f,No Result Determined,Software
+apr,2020,MRD,45,46,f,Reduced Sensitivity,Assay
+apr,2020,MRD,45,46,f,Sequencer Misloaded,Assay
+apr,2020,MRD,45,46,n,Broken pellet,Assay
+apr,2020,MRD,45,46,n,Cracked tube,Software
+apr,2020,Stratafide,7,14,n,Software freezes when trying to create report,Software
+apr,2021,MRD,32,46,n,Permission error in cloud based storage.,Software
+apr,2021,Stratafide,12,16,n,Erroneously high sensitivity ,Assay
+apr,2022,ArcherMET,20,34,n,No Result Determined,Assay
+apr,2022,ArcherMET,20,34,n,Reduced Sensitivity,Software
+apr,2022,ArcherMET,20,34,n,Sequencer Misloaded,Assay
+apr,2022,ArcherMET,20,34,f,Broken pellet,Assay
+apr,2022,ArcherMET,20,34,f,Cracked tube,Assay
+apr,2022,ArcherMET,20,34,f,Software freezes when trying to create report,Software
+apr,2022,ArcherMET,20,34,f,Permission error in cloud based storage.,Software
+apr,2022,ArcherMET,20,34,n,Cracked tube,Software
+apr,2022,ArcherMET,20,34,n,Cracked tube,Assay
+apr,2022,ArcherMET,20,34,n,Cracked tube,Assay
+apr,2022,MRD,26,37,n,Cracked tube,Software
+apr,2022,MRD,26,37,n,Cracked tube,Assay
+apr,2022,Stratafide,6,13,n,Cracked tube,Assay
+aug,2019,ArcherMET,40,66,n,Cracked tube,Assay
+aug,2019,ArcherMET,40,66,n,Cracked tube,Software
+aug,2019,MRD,20,40,n,Cracked tube,Software
+aug,2019,Stratafide,10,18,n,Cracked tube,Software
+aug,2019,Stratafide,10,18,f,Cracked tube,Assay
+aug,2019,Stratafide,10,18,f,Cracked tube,Assay
+aug,2019,Stratafide,10,18,f,Cracked tube,Software
+aug,2019,Stratafide,10,18,f,Erroneously high sensitivity ,Assay
+aug,2019,Stratafide,10,18,f,No Result Determined,Assay
+aug,2020,MRD,12,13,f,Reduced Sensitivity,Assay
+aug,2020,MRD,12,13,f,Sequencer Misloaded,Software
+aug,2020,MRD,12,13,f,Broken pellet,Software
+aug,2020,MRD,12,13,n,Cracked tube,Software
+aug,2020,MRD,12,13,n,Software freezes when trying to create report,Assay
+aug,2020,Stratafide,13,18,n,Permission error in cloud based storage.,Assay
+aug,2021,MRD,45,66,f,Erroneously high sensitivity ,Software
+aug,2021,MRD,45,66,f,No Result Determined,Assay
+aug,2021,Stratafide,29.7,45,f,Reduced Sensitivity,Assay
+aug,2021,Stratafide,29.7,45,f,Erroneously high sensitivity ,Assay
+aug,2022,ArcherMET,39.6,60,n,No Result Determined,Software
+aug,2022,ArcherMET,39.6,60,n,Reduced Sensitivity,Software
+aug,2022,MRD,11.88,18,n,Erroneously high sensitivity ,Software
+aug,2022,MRD,11.88,18,f,No Result Determined,Assay
+aug,2022,MRD,11.88,18,f,Reduced Sensitivity,Assay
+aug,2022,Stratafide,13.2,20,f,Erroneously high sensitivity ,Software
+aug,2022,Stratafide,13.2,20,f,No Result Determined,Assay
+aug,2022,Stratafide,13.2,20,f,Reduced Sensitivity,Assay
+aug,2022,Stratafide,13.2,20,f,Sequencer Misloaded,Assay
+aug,2022,Stratafide,13.2,20,n,Broken pellet,Software
+aug,2022,Stratafide,13.2,20,n,Cracked tube,Software
+aug,2022,Stratafide,13.2,20,n,Software freezes when trying to create report,Software
+dec,2019,ArcherMET,36.3,55,n,Permission error in cloud based storage.,Assay
+dec,2019,ArcherMET,36.3,55,n,Erroneously high sensitivity ,Assay
+dec,2019,ArcherMET,36.3,55,n,No Result Determined,Software
+dec,2019,ArcherMET,36.3,55,n,Reduced Sensitivity,Assay
+dec,2019,ArcherMET,36.3,55,n,Sequencer Misloaded,Assay
+dec,2019,MRD,50,93,n,Broken pellet,Assay
+dec,2019,MRD,50,93,n,Cracked tube,Software
+dec,2019,MRD,50,93,n,Software freezes when trying to create report,Software
+dec,2019,MRD,50,93,n,Permission error in cloud based storage.,Software
+dec,2019,Stratafide,59.4,90,f,Erroneously high sensitivity ,Assay
+dec,2019,Stratafide,59.4,90,f,No Result Determined,Assay
+dec,2019,Stratafide,59.4,90,f,Reduced Sensitivity,Software
+dec,2019,Stratafide,59.4,90,f,Sequencer Misloaded,Assay
+dec,2019,Stratafide,59.4,90,n,Broken pellet,Assay
+dec,2020,ArcherMET,50,99,n,Cracked tube,Assay
+dec,2020,ArcherMET,50,99,f,Software freezes when trying to create report,Software
+dec,2020,ArcherMET,50,99,f,Permission error in cloud based storage.,Software
+dec,2020,ArcherMET,50,99,n,Cracked tube,Software
+dec,2020,ArcherMET,50,99,f,Cracked tube,Assay
+dec,2020,MRD,18,37,f,Cracked tube,Assay
+dec,2020,MRD,18,37,f,Cracked tube,Software
+dec,2020,MRD,18,37,n,Cracked tube,Assay
+dec,2020,MRD,18,37,n,Cracked tube,Assay
+dec,2020,MRD,18,37,n,Cracked tube,Assay
+dec,2020,MRD,18,37,n,Cracked tube,Software
+dec,2020,MRD,18,37,n,Cracked tube,Software
+dec,2020,MRD,18,37,n,Cracked tube,Software
+dec,2020,Stratafide,16.5,25,n,Cracked tube,Assay
+dec,2020,Stratafide,16.5,25,n,Cracked tube,Assay
+dec,2021,ArcherMET,10.56,16,f,Cracked tube,Software
+dec,2021,ArcherMET,10.56,16,f,Erroneously high sensitivity ,Assay
+dec,2021,ArcherMET,10.56,16,f,No Result Determined,Assay
+dec,2021,MRD,26.4,40,f,Reduced Sensitivity,Assay
+dec,2021,MRD,26.4,40,n,Sequencer Misloaded,Software
+dec,2021,MRD,26.4,40,n,Broken pellet,Software
+dec,2021,MRD,26.4,40,n,Cracked tube,Software
+dec,2021,MRD,26.4,40,n,Software freezes when trying to create report,Assay
+dec,2021,MRD,26.4,40,n,Permission error in cloud based storage.,Assay
+dec,2021,MRD,26.4,40,n,Erroneously high sensitivity ,Software
+dec,2021,Stratafide,13.2,20,n,No Result Determined,Assay
+dec,2022,ArcherMET,43.56,66,n,Reduced Sensitivity,Assay
+dec,2022,ArcherMET,43.56,66,n,Erroneously high sensitivity ,Assay
+dec,2022,ArcherMET,43.56,66,n,No Result Determined,Software
+dec,2022,ArcherMET,43.56,66,f,Reduced Sensitivity,Software
+dec,2022,ArcherMET,43.56,66,f,Erroneously high sensitivity ,Software
+dec,2022,MRD,9.9,15,f,No Result Determined,Assay
+dec,2022,MRD,9.9,15,f,Reduced Sensitivity,Assay
+dec,2022,MRD,9.9,15,f,Erroneously high sensitivity ,Software
+dec,2022,MRD,9.9,15,f,No Result Determined,Assay
+dec,2022,MRD,9.9,15,f,Reduced Sensitivity,Assay
+dec,2022,Stratafide,61.38,93,f,Sequencer Misloaded,Assay
+dec,2022,Stratafide,61.38,93,n,Broken pellet,Software
+dec,2022,Stratafide,61.38,93,n,Cracked tube,Software
+dec,2022,Stratafide,61.38,93,n,Software freezes when trying to create report,Software
+dec,2022,Stratafide,61.38,93,f,Permission error in cloud based storage.,Assay
+dec,2022,Stratafide,61.38,93,f,Erroneously high sensitivity ,Assay
+dec,2022,Stratafide,61.38,93,f,No Result Determined,Software
+dec,2022,Stratafide,61.38,93,f,Reduced Sensitivity,Assay
+feb,2019,ArcherMET,61,90,n,Sequencer Misloaded,Assay
+feb,2019,ArcherMET,61,90,n,Broken pellet,Assay
+feb,2019,MRD,28,45,n,Cracked tube,Software
+feb,2019,MRD,28,45,f,Software freezes when trying to create report,Software
+feb,2019,MRD,28,45,f,Permission error in cloud based storage.,Software
+feb,2019,MRD,28,45,f,Erroneously high sensitivity ,Assay
+feb,2019,Stratafide,28,45,f,No Result Determined,Assay
+feb,2019,Stratafide,28,45,f,Reduced Sensitivity,Software
+feb,2019,Stratafide,28,45,f,Sequencer Misloaded,Assay
+feb,2019,Stratafide,28,45,n,Broken pellet,Assay
+feb,2019,Stratafide,28,45,n,Cracked tube,Assay
+feb,2019,Stratafide,28,45,n,Software freezes when trying to create report,Software
+feb,2019,Stratafide,28,45,n,Permission error in cloud based storage.,Software
+feb,2019,Stratafide,28,45,n,Cracked tube,Software
+feb,2020,MRD,51,76,n,Cracked tube,Assay
+feb,2020,Stratafide,10,17,n,Cracked tube,Assay
+feb,2020,Stratafide,10,17,n,Cracked tube,Software
+feb,2021,MRD,14,25,n,Cracked tube,Assay
+feb,2021,MRD,14,25,n,Cracked tube,Assay
+feb,2021,MRD,14,25,n,Cracked tube,Assay
+feb,2021,MRD,14,25,n,Cracked tube,Software
+feb,2021,Stratafide,20,33,f,Cracked tube,Software
+feb,2022,ArcherMET,23,34,f,Cracked tube,Software
+feb,2022,Stratafide,14,23,f,Cracked tube,Assay
+feb,2022,Stratafide,14,23,f,Cracked tube,Assay
+feb,2022,Stratafide,14,23,n,Cracked tube,Software
+feb,2022,Stratafide,14,23,n,Erroneously high sensitivity ,Assay
+feb,2022,Stratafide,14,23,f,No Result Determined,Assay
+jan,2019,ArcherMET,31,45,f,Reduced Sensitivity,Assay
+jan,2019,MRD,10,17,n,Sequencer Misloaded,Software
+jan,2019,MRD,10,17,f,Broken pellet,Software
+jan,2019,MRD,10,17,f,Cracked tube,Software
+jan,2019,MRD,10,17,f,Software freezes when trying to create report,Assay
+jan,2019,Stratafide,26,37,n,Permission error in cloud based storage.,Assay
+jan,2019,Stratafide,26,37,n,Erroneously high sensitivity ,Software
+jan,2019,Stratafide,26,37,n,No Result Determined,Assay
+jan,2019,Stratafide,26,37,n,Reduced Sensitivity,Assay
+jan,2020,ArcherMET,43,45,n,Erroneously high sensitivity ,Assay
+jan,2020,ArcherMET,43,45,n,No Result Determined,Software
+jan,2020,ArcherMET,43,45,n,Reduced Sensitivity,Software
+jan,2020,ArcherMET,43,45,n,Erroneously high sensitivity ,Software
+jan,2020,ArcherMET,43,45,f,No Result Determined,Assay
+jan,2020,ArcherMET,43,45,f,Reduced Sensitivity,Assay
+jan,2020,ArcherMET,43,45,f,Cracked tube,Software
+jan,2020,ArcherMET,43,45,f,Cracked tube,Assay
+jan,2020,ArcherMET,43,45,n,Cracked tube,Assay
+jan,2020,ArcherMET,43,45,n,Cracked tube,Assay
+jan,2020,MRD,30,60,n,Cracked tube,Software
+jan,2020,MRD,30,60,n,Cracked tube,Software
+jan,2020,Stratafide,52,76,n,Cracked tube,Software
+jan,2020,Stratafide,52,76,n,Erroneously high sensitivity ,Assay
+jan,2020,Stratafide,52,76,n,No Result Determined,Assay
+jan,2021,ArcherMET,9,13,n,Reduced Sensitivity,Software
+jan,2021,ArcherMET,9,13,n,Sequencer Misloaded,Assay
+jan,2021,ArcherMET,9,13,n,Broken pellet,Assay
+jan,2021,ArcherMET,9,13,f,Cracked tube,Assay
+jan,2021,ArcherMET,9,13,f,Software freezes when trying to create report,Software
+jan,2021,ArcherMET,9,13,f,Permission error in cloud based storage.,Software
+jan,2021,ArcherMET,9,13,f,Erroneously high sensitivity ,Software
+jan,2021,Stratafide,24,34,f,No Result Determined,Assay
+jan,2021,Stratafide,24,34,f,Reduced Sensitivity,Assay
+jan,2022,ArcherMET,35,46,f,Sequencer Misloaded,Software
+jan,2022,MRD,14,20,f,Broken pellet,Assay
+jan,2022,MRD,14,20,n,Cracked tube,Assay
+jan,2022,MRD,14,20,n,Software freezes when trying to create report,Assay
+jan,2022,Stratafide,15,18,n,Permission error in cloud based storage.,Software
+jan,2022,Stratafide,15,18,f,Erroneously high sensitivity ,Software
+jul,2019,MRD,62,90,f,No Result Determined,Software
+jul,2019,MRD,62,90,f,Reduced Sensitivity,Assay
+jul,2019,Stratafide,7,13,f,Sequencer Misloaded,Assay
+jul,2019,Stratafide,7,13,n,Broken pellet,Software
+jul,2020,ArcherMET,10,15,n,Cracked tube,Assay
+jul,2020,ArcherMET,10,15,n,Software freezes when trying to create report,Assay
+jul,2020,ArcherMET,10,15,f,Permission error in cloud based storage.,Assay
+jul,2020,ArcherMET,10,15,f,Cracked tube,Software
+jul,2020,ArcherMET,10,15,f,Cracked tube,Software
+jul,2020,ArcherMET,10,15,f,Cracked tube,Software
+jul,2020,ArcherMET,10,15,f,Cracked tube,Assay
+jul,2020,ArcherMET,10,15,f,Cracked tube,Assay
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Software
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Assay
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Assay
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Assay
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Software
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Software
+jul,2021,ArcherMET,9.9,15,n,Cracked tube,Software
+jul,2021,MRD,21.78,33,n,Cracked tube,Assay
+jul,2021,MRD,21.78,33,n,Erroneously high sensitivity ,Assay
+jul,2021,MRD,21.78,33,n,No Result Determined,Software
+jul,2021,Stratafide,9.9,15,n,Reduced Sensitivity,Assay
+jul,2021,Stratafide,9.9,15,n,Sequencer Misloaded,Assay
+jul,2022,MRD,22.44,34,f,Broken pellet,Assay
+jul,2022,MRD,22.44,34,f,Cracked tube,Software
+jul,2022,MRD,22.44,34,f,Software freezes when trying to create report,Software
+jul,2022,MRD,22.44,34,f,Permission error in cloud based storage.,Software
+jul,2022,MRD,22.44,34,n,Erroneously high sensitivity ,Assay
+jul,2022,MRD,22.44,34,n,No Result Determined,Assay
+jul,2022,Stratafide,12.54,19,f,Reduced Sensitivity,Software
+jul,2022,Stratafide,12.54,19,f,Erroneously high sensitivity ,Assay
+jun,2019,ArcherMET,11.22,17,n,No Result Determined,Assay
+jun,2019,ArcherMET,11.22,17,f,Reduced Sensitivity,Assay
+jun,2019,ArcherMET,11.22,17,f,Erroneously high sensitivity ,Software
+jun,2019,ArcherMET,11.22,17,f,No Result Determined,Software
+jun,2019,ArcherMET,11.22,17,n,Reduced Sensitivity,Software
+jun,2019,ArcherMET,11.22,17,n,Erroneously high sensitivity ,Assay
+jun,2019,MRD,50.16,76,n,No Result Determined,Assay
+jun,2019,MRD,50.16,76,n,Reduced Sensitivity,Software
+jun,2019,MRD,50.16,76,n,Sequencer Misloaded,Assay
+jun,2019,MRD,50.16,76,n,Broken pellet,Assay
+jun,2019,MRD,50.16,76,n,Cracked tube,Assay
+jun,2019,MRD,50.16,76,n,Software freezes when trying to create report,Software
+jun,2019,MRD,50.16,76,f,Permission error in cloud based storage.,Software
+jun,2019,Stratafide,21.78,33,f,Erroneously high sensitivity ,Software
+jun,2019,Stratafide,21.78,33,f,No Result Determined,Assay
+jun,2019,Stratafide,21.78,33,f,Reduced Sensitivity,Assay
+jun,2019,Stratafide,21.78,33,n,Sequencer Misloaded,Software
+jun,2019,Stratafide,21.78,33,n,Broken pellet,Assay
+jun,2019,Stratafide,21.78,33,n,Cracked tube,Assay
+jun,2019,Stratafide,21.78,33,n,Software freezes when trying to create report,Assay
+jun,2020,ArcherMET,61.38,93,n,Permission error in cloud based storage.,Software
+jun,2020,ArcherMET,61.38,93,n,Erroneously high sensitivity ,Software
+jun,2020,ArcherMET,61.38,93,n,No Result Determined,Software
+jun,2020,ArcherMET,61.38,93,n,Reduced Sensitivity,Assay
+jun,2020,ArcherMET,61.38,93,n,Sequencer Misloaded,Assay
+jun,2020,MRD,18,34,n,Broken pellet,Software
+jun,2020,MRD,18,34,f,Cracked tube,Assay
+jun,2020,MRD,18,34,f,Software freezes when trying to create report,Assay
+jun,2020,MRD,18,34,f,Permission error in cloud based storage.,Assay
+jun,2020,MRD,18,34,f,Cracked tube,Software
+jun,2020,MRD,18,34,f,Cracked tube,Software
+jun,2020,MRD,18,34,f,Cracked tube,Software
+jun,2020,Stratafide,43.56,66,f,Cracked tube,Assay
+jun,2020,Stratafide,43.56,66,f,Cracked tube,Assay
+jun,2020,Stratafide,43.56,66,n,Cracked tube,Software
+jun,2020,Stratafide,43.56,66,n,Cracked tube,Assay
+jun,2021,ArcherMET,13.2,20,n,Cracked tube,Assay
+jun,2021,ArcherMET,13.2,20,f,Cracked tube,Assay
+jun,2021,ArcherMET,13.2,20,f,Cracked tube,Software
+jun,2021,ArcherMET,13.2,20,f,Cracked tube,Software
+jun,2021,MRD,59.4,90,f,Cracked tube,Software
+jun,2021,MRD,59.4,90,n,Cracked tube,Assay
+jun,2021,MRD,59.4,90,n,Erroneously high sensitivity ,Assay
+jun,2021,MRD,59.4,90,n,No Result Determined,Software
+jun,2021,MRD,59.4,90,f,Reduced Sensitivity,Assay
+jun,2021,MRD,59.4,90,f,Sequencer Misloaded,Assay
+jun,2021,MRD,59.4,90,f,Broken pellet,Assay
+jun,2021,MRD,59.4,90,f,Cracked tube,Software
+jun,2021,MRD,59.4,90,f,Software freezes when trying to create report,Software
+jun,2021,MRD,59.4,90,f,Permission error in cloud based storage.,Software
+jun,2021,Stratafide,9.9,15,n,Erroneously high sensitivity ,Assay
+jun,2021,Stratafide,9.9,15,n,No Result Determined,Assay
+jun,2022,ArcherMET,22.44,34,n,Reduced Sensitivity,Software
+jun,2022,ArcherMET,22.44,34,n,Erroneously high sensitivity ,Assay
+jun,2022,ArcherMET,22.44,34,n,No Result Determined,Assay
+jun,2022,ArcherMET,22.44,34,n,Reduced Sensitivity,Assay
+jun,2022,ArcherMET,22.44,34,n,Erroneously high sensitivity ,Software
+jun,2022,ArcherMET,22.44,34,n,No Result Determined,Software
+jun,2022,MRD,22.44,34,n,Reduced Sensitivity,Software
+jun,2022,MRD,22.44,34,n,Cracked tube,Assay
+jun,2022,MRD,22.44,34,n,Cracked tube,Assay
+jun,2022,MRD,22.44,34,n,Cracked tube,Software
+jun,2022,Stratafide,39.6,60,f,Cracked tube,Assay
+jun,2022,Stratafide,39.6,60,f,Cracked tube,Assay
+jun,2022,Stratafide,39.6,60,f,Cracked tube,Assay
+jun,2022,Stratafide,39.6,60,f,Cracked tube,Software
+mar,2019,MRD,22.44,34,n,Cracked tube,Software
+mar,2019,Stratafide,36.3,55,n,Cracked tube,Software
+mar,2020,ArcherMET,26.4,40,f,Cracked tube,Assay
+mar,2020,MRD,21,23,f,Cracked tube,Assay
+mar,2020,MRD,21,23,n,Cracked tube,Software
+mar,2020,Stratafide,9.24,14,f,Erroneously high sensitivity ,Assay
+mar,2020,Stratafide,9.24,14,f,No Result Determined,Assay
+mar,2020,Stratafide,9.24,14,f,Reduced Sensitivity,Assay
+mar,2020,Stratafide,9.24,14,n,Sequencer Misloaded,Software
+mar,2020,Stratafide,9.24,14,n,Broken pellet,Software
+mar,2021,ArcherMET,8.58,13,n,Cracked tube,Software
+mar,2021,ArcherMET,8.58,13,n,Software freezes when trying to create report,Assay
+mar,2021,ArcherMET,8.58,13,n,Permission error in cloud based storage.,Assay
+mar,2021,MRD,9.24,14,n,Erroneously high sensitivity ,Software
+mar,2021,MRD,9.24,14,n,No Result Determined,Assay
+mar,2021,Stratafide,16.5,25,n,Reduced Sensitivity,Assay
+mar,2021,Stratafide,16.5,25,f,Sequencer Misloaded,Assay
+mar,2021,Stratafide,16.5,25,f,Broken pellet,Software
+mar,2021,Stratafide,16.5,25,f,Cracked tube,Software
+mar,2021,Stratafide,16.5,25,f,Software freezes when trying to create report,Software
+mar,2021,Stratafide,16.5,25,n,Permission error in cloud based storage.,Assay
+mar,2021,Stratafide,16.5,25,n,Erroneously high sensitivity ,Assay
+mar,2021,Stratafide,16.5,25,n,No Result Determined,Software
+mar,2022,MRD,12.54,19,n,Reduced Sensitivity,Assay
+mar,2022,MRD,12.54,19,n,Sequencer Misloaded,Assay
+mar,2022,MRD,12.54,19,n,Broken pellet,Assay
+mar,2022,MRD,12.54,19,n,Cracked tube,Software
+mar,2022,MRD,12.54,19,n,Software freezes when trying to create report,Software
+mar,2022,Stratafide,21.12,32,n,Permission error in cloud based storage.,Software
+mar,2022,Stratafide,21.12,32,n,Cracked tube,Assay
+may,2019,ArcherMET,50.16,76,f,Cracked tube,Assay
+may,2019,MRD,9,13,f,Cracked tube,Software
+may,2019,MRD,9,13,f,Cracked tube,Assay
+may,2019,MRD,9,13,f,Cracked tube,Assay
+may,2019,MRD,9,13,f,Cracked tube,Assay
+may,2019,MRD,9,13,f,Cracked tube,Software
+may,2019,MRD,9,13,f,Cracked tube,Software
+may,2019,MRD,9,13,f,Cracked tube,Software
+may,2019,Stratafide,24,34,n,Cracked tube,Assay
+may,2019,Stratafide,24,34,n,Cracked tube,Assay
+may,2019,Stratafide,24,34,n,Cracked tube,Software
+may,2020,ArcherMET,13,23,f,Cracked tube,Assay
+may,2020,ArcherMET,13,23,f,Erroneously high sensitivity ,Assay
+may,2020,MRD,10,16,f,No Result Determined,Assay
+may,2020,MRD,10,16,f,Reduced Sensitivity,Software
+may,2020,Stratafide,38,55,n,Sequencer Misloaded,Software
+may,2020,Stratafide,38,55,n,Broken pellet,Software
+may,2020,Stratafide,38,55,n,Cracked tube,Assay
+may,2020,Stratafide,38,55,f,Software freezes when trying to create report,Assay
+may,2020,Stratafide,38,55,f,Permission error in cloud based storage.,Software
+may,2020,Stratafide,38,55,f,Erroneously high sensitivity ,Assay
+may,2020,Stratafide,38,55,f,No Result Determined,Assay
+may,2021,ArcherMET,24,34,f,Reduced Sensitivity,Assay
+may,2021,Stratafide,12,16,f,Erroneously high sensitivity ,Software
+may,2021,Stratafide,12,16,n,No Result Determined,Software
+may,2021,Stratafide,12,16,n,Reduced Sensitivity,Software
+may,2021,Stratafide,12,16,n,Erroneously high sensitivity ,Assay
+may,2021,Stratafide,12,16,n,No Result Determined,Assay
+may,2022,MRD,9,13,n,Reduced Sensitivity,Software
+may,2022,Stratafide,67,99,n,Cracked tube,Assay
+nov,2019,ArcherMET,12,13,n,Cracked tube,Assay
+nov,2019,MRD,50,55,n,Cracked tube,Assay
+nov,2019,MRD,50,55,n,Erroneously high sensitivity ,Software
+nov,2019,MRD,50,55,n,No Result Determined,Software
+nov,2019,Stratafide,30,34,n,Reduced Sensitivity,Software
+nov,2019,Stratafide,30,34,n,Sequencer Misloaded,Assay
+nov,2020,ArcherMET,35,37,f,Broken pellet,Assay
+nov,2020,Stratafide,10,13,f,Cracked tube,Software
+nov,2020,Stratafide,10,13,f,Software freezes when trying to create report,Assay
+nov,2020,Stratafide,10,13,f,Permission error in cloud based storage.,Assay
+nov,2020,Stratafide,10,13,n,Erroneously high sensitivity ,Assay
+nov,2020,Stratafide,10,13,n,No Result Determined,Software
+nov,2021,ArcherMET,12,14,f,Reduced Sensitivity,Software
+nov,2021,ArcherMET,12,14,f,Sequencer Misloaded,Software
+nov,2021,MRD,13,13,n,Broken pellet,Assay
+nov,2021,MRD,13,13,f,Cracked tube,Assay
+nov,2021,Stratafide,97,99,f,Software freezes when trying to create report,Software
+nov,2021,Stratafide,97,99,f,Permission error in cloud based storage.,Assay
+nov,2021,Stratafide,97,99,n,Erroneously high sensitivity ,Assay
+nov,2021,Stratafide,97,99,n,No Result Determined,Assay
+nov,2021,Stratafide,97,99,n,Reduced Sensitivity,Software
+nov,2021,Stratafide,97,99,n,Sequencer Misloaded,Software
+nov,2021,Stratafide,97,99,n,Broken pellet,Software
+nov,2022,MRD,14,15,n,Cracked tube,Assay
+nov,2022,MRD,14,15,n,Software freezes when trying to create report,Assay
+nov,2022,MRD,14,15,n,Permission error in cloud based storage.,Software
+nov,2022,MRD,14,15,f,Cracked tube,Assay
+nov,2022,MRD,14,15,f,Cracked tube,Assay
+nov,2022,Stratafide,64,66,f,Cracked tube,Assay
+oct,2019,ArcherMET,1.9,19,f,Cracked tube,Software
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Software
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Software
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Assay
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Assay
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Software
+oct,2019,ArcherMET,1.9,19,n,Cracked tube,Assay
+oct,2019,MRD,9.9,99,n,Cracked tube,Assay
+oct,2019,MRD,9.9,99,n,Cracked tube,Assay
+oct,2019,MRD,9.9,99,n,Cracked tube,Software
+oct,2019,Stratafide,4.5,45,n,Erroneously high sensitivity ,Software
+oct,2019,Stratafide,4.5,45,f,No Result Determined,Software
+oct,2020,MRD,64,66,f,Reduced Sensitivity,Assay
+oct,2020,MRD,64,66,f,Sequencer Misloaded,Assay
+oct,2020,MRD,64,66,f,Broken pellet,Software
+oct,2020,Stratafide,4.6,46,f,Cracked tube,Assay
+oct,2020,Stratafide,4.6,46,f,Software freezes when trying to create report,Assay
+oct,2021,MRD,3.2,32,f,Permission error in cloud based storage.,Assay
+oct,2021,MRD,3.2,32,f,Erroneously high sensitivity ,Software
+oct,2021,MRD,3.2,32,n,No Result Determined,Software
+oct,2021,MRD,3.2,32,n,Reduced Sensitivity,Software
+oct,2021,MRD,3.2,32,n,Erroneously high sensitivity ,Assay
+oct,2021,Stratafide,9.3,93,f,No Result Determined,Assay
+oct,2022,ArcherMET,3.2,32,f,Reduced Sensitivity,Software
+oct,2022,ArcherMET,3.2,32,f,Erroneously high sensitivity ,Assay
+oct,2022,ArcherMET,3.2,32,f,No Result Determined,Assay
+oct,2022,ArcherMET,3.2,32,n,Reduced Sensitivity,Assay
+oct,2022,ArcherMET,3.2,32,n,Erroneously high sensitivity ,Software
+oct,2022,ArcherMET,3.2,32,n,No Result Determined,Software
+oct,2022,ArcherMET,3.2,32,f,Reduced Sensitivity,Software
+oct,2022,ArcherMET,3.2,32,f,Sequencer Misloaded,Assay
+sep,2019,ArcherMET,19,33,f,Broken pellet,Assay
+sep,2019,ArcherMET,19,33,f,Cracked tube,Software
+sep,2019,ArcherMET,19,33,f,Software freezes when trying to create report,Assay
+sep,2019,ArcherMET,19,33,f,Permission error in cloud based storage.,Assay
+sep,2019,MRD,41,60,n,Erroneously high sensitivity ,Assay
+sep,2019,MRD,41,60,n,No Result Determined,Software
+sep,2019,MRD,41,60,n,Reduced Sensitivity,Software
+sep,2019,MRD,41,60,n,Sequencer Misloaded,Software
+sep,2019,MRD,41,60,n,Broken pellet,Assay
+sep,2019,MRD,41,60,n,Cracked tube,Assay
+sep,2019,MRD,41,60,n,Software freezes when trying to create report,Software
+sep,2019,MRD,41,60,n,Permission error in cloud based storage.,Assay
+sep,2019,MRD,41,60,n,Erroneously high sensitivity ,Assay
+sep,2019,Stratafide,28,40,n,No Result Determined,Assay
+sep,2019,Stratafide,28,40,n,Reduced Sensitivity,Software
+sep,2020,ArcherMET,10,18,n,Sequencer Misloaded,Software
+sep,2020,ArcherMET,10,18,f,Broken pellet,Software
+sep,2020,ArcherMET,10,18,f,Cracked tube,Assay
+sep,2020,ArcherMET,10,18,f,Software freezes when trying to create report,Assay
+sep,2020,ArcherMET,10,18,f,Permission error in cloud based storage.,Software
+sep,2020,ArcherMET,10,18,n,Cracked tube,Assay
+sep,2020,MRD,28,66,n,Cracked tube,Assay
+sep,2020,MRD,28,66,f,Cracked tube,Assay
+sep,2020,MRD,28,66,f,Cracked tube,Software
+sep,2020,MRD,28,66,n,Cracked tube,Software
+sep,2020,MRD,28,66,f,Cracked tube,Software
+sep,2020,MRD,28,66,f,Cracked tube,Assay
+sep,2020,MRD,28,66,f,Cracked tube,Assay
+sep,2020,MRD,28,66,n,Cracked tube,Software
+sep,2020,Stratafide,13,17,n,Cracked tube,Assay
+sep,2020,Stratafide,13,17,n,Cracked tube,Assay
+sep,2020,Stratafide,13,17,n,Cracked tube,Assay
+sep,2020,Stratafide,13,17,n,Cracked tube,Software
+sep,2020,Stratafide,13,17,n,Erroneously high sensitivity ,Software
+sep,2020,Stratafide,13,17,n,No Result Determined,Software
+sep,2020,Stratafide,13,17,n,Reduced Sensitivity,Assay
+sep,2020,Stratafide,13,17,f,Sequencer Misloaded,Assay
+sep,2021,ArcherMET,27,45,f,Broken pellet,Software
+sep,2021,ArcherMET,27,45,f,Cracked tube,Assay
+sep,2021,ArcherMET,27,45,f,Software freezes when trying to create report,Assay
+sep,2021,ArcherMET,27,45,n,Permission error in cloud based storage.,Assay
+sep,2021,ArcherMET,27,45,n,Erroneously high sensitivity ,Software
+sep,2021,MRD,10,18,n,No Result Determined,Software
+sep,2021,MRD,10,18,n,Reduced Sensitivity,Software
+sep,2021,MRD,10,18,n,Erroneously high sensitivity ,Assay
+sep,2021,MRD,10,18,n,No Result Determined,Assay
+sep,2021,Stratafide,41,66,n,Reduced Sensitivity,Software
+sep,2021,Stratafide,41,66,n,Erroneously high sensitivity ,Assay
+sep,2021,Stratafide,41,66,n,No Result Determined,Assay
+sep,2021,Stratafide,41,66,n,Reduced Sensitivity,Assay
+sep,2021,Stratafide,41,66,f,Erroneously high sensitivity ,Software
+sep,2021,Stratafide,41,66,f,No Result Determined,Software
+sep,2021,Stratafide,41,66,f,Reduced Sensitivity,Software
+sep,2022,ArcherMET,10,18,f,Sequencer Misloaded,Assay
+sep,2022,ArcherMET,10,18,f,Broken pellet,Assay
+sep,2022,ArcherMET,10,18,f,Cracked tube,Software
+sep,2022,MRD,28,45,f,Software freezes when trying to create report,Assay
+sep,2022,MRD,28,45,f,Permission error in cloud based storage.,Assay
+sep,2022,MRD,28,45,n,Erroneously high sensitivity ,Assay
+sep,2022,MRD,28,45,n,No Result Determined,Software
+sep,2022,MRD,28,45,n,Reduced Sensitivity,Software
+sep,2022,MRD,28,45,f,Sequencer Misloaded,Software
+sep,2022,Stratafide,7,13,f,Broken pellet,Assay
+sep,2022,Stratafide,7,13,f,Cracked tube,Assay
+sep,2022,Stratafide,7,13,f,Software freezes when trying to create report,Assay
